@@ -1,2 +1,2 @@
 # CodePract
-Code Practice 
+Code Practice in java
