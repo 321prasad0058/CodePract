@@ -1,5 +1,7 @@
 import java.util.*;
 
+// class toUpperCase 
+
 public class toUpperCase {
     public static String toUpperCase(String str) {
         StringBuilder sb = new StringBuilder("");
