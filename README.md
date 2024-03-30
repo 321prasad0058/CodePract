@@ -1,1 +1,1 @@
-# CodePractice
+# CodePract
